@@ -1,0 +1,11 @@
+[project]
+name = "topic-viwer"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi>=0.120.4",
+    "flet>=0.28.3",
+    "uvicorn>=0.38.0",
+]

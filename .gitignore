@@ -1,0 +1,36 @@
+# Ambientes virtuais
+.venv/
+env/
+venv/
+*.env
+
+# Cache e metadados do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Arquivos temporários
+*.log
+*.tmp
+*.swp
+
+# Dados de build
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Arquivos de IDE
+.vscode/
+.idea/
+*.iml
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos do uv
+.uv.lock
+.uv-cache/
